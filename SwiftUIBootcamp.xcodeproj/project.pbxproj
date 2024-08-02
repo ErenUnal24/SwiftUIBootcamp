@@ -100,10 +100,6 @@
 		7B97EC102C5B672800947186 = {
 			isa = PBXGroup;
 			children = (
-				7B97EC5A2C5BB43A00947186 /* ForEachBootcamp.swift */,
-				7B97EC5C2C5BC3EF00947186 /* ScrollViewBootcamp.swift */,
-				7B97EC5E2C5BC79A00947186 /* GridBootcamp.swift */,
-				7B97EC582C5BA91000947186 /* InitializerBootcamp.swift */,
 				7B97EC1B2C5B672800947186 /* SwiftUIBootcamp */,
 				7B97EC2C2C5B672900947186 /* SwiftUIBootcampTests */,
 				7B97EC362C5B672900947186 /* SwiftUIBootcampUITests */,
@@ -124,6 +120,10 @@
 		7B97EC1B2C5B672800947186 /* SwiftUIBootcamp */ = {
 			isa = PBXGroup;
 			children = (
+				7B97EC5A2C5BB43A00947186 /* ForEachBootcamp.swift */,
+				7B97EC5C2C5BC3EF00947186 /* ScrollViewBootcamp.swift */,
+				7B97EC5E2C5BC79A00947186 /* GridBootcamp.swift */,
+				7B97EC582C5BA91000947186 /* InitializerBootcamp.swift */,
 				7B97EC562C5BA17C00947186 /* StacksBootcamp.swift */,
 				7B97EC462C5B676300947186 /* TextBootcamp.swift */,
 				7B97EC482C5B699B00947186 /* ShapesBootcamp.swift */,
