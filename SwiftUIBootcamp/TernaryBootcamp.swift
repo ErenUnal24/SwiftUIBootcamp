@@ -8,8 +8,28 @@
 import SwiftUI
 
 struct TernaryBootcamp: View {
+    
+    @State var isStartingState: Bool = false
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            
+            Button("Button: \(isStartingState.description)") {
+                isStartingState.toggle()
+            }
+            
+            Text(isStartingState ? "Starting State" : "Ending State")
+            
+            RoundedRectangle(cornerRadius: isStartingState ? 25.0 : 0)
+                .fill(isStartingState == true ? Color.red : Color.blue)
+                    .frame(
+                        width: isStartingState ? 200 : 50,
+                        height: isStartingState ? 400 : 50)
+            
+            
+            
+            Spacer()
+        }
     }
 }
 

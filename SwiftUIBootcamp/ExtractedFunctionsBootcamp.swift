@@ -10,6 +10,7 @@ import SwiftUI
 struct ExtractedFunctionsBootcamp: View {
     
     @State var backgroundColor : Color = Color.pink
+    @State var buttonPressCounter : Int = 0
     
     
     var body: some View {
@@ -19,23 +20,38 @@ struct ExtractedFunctionsBootcamp: View {
                 .ignoresSafeArea(edges: .all)
             
             //content
-            VStack {
-                Text("Title")
-                    .font(.largeTitle)
-                
-                Button {
-                    backgroundColor = Color.yellow
-                } label: {
-                    Text("Press Me")
-                        .font(.headline)
-                        .foregroundStyle(.white)
-                        .padding()
-                        .background(.black)
-                        .clipShape(RoundedRectangle(cornerRadius: 8))
-                }
-
-            }
+           contentLayer
         }
+    }
+    
+    var contentLayer : some View {
+        VStack {
+            Text("Title")
+                .font(.largeTitle)
+            
+            Button {
+                buttonPressed()
+            } label: {
+                Text("Press Me")
+                    .font(.headline)
+                    .foregroundStyle(.white)
+                    .padding()
+                    .background(.black)
+                    .clipShape(RoundedRectangle(cornerRadius: 8))
+            }
+
+        }
+    }
+    
+    
+    func buttonPressed() {
+        buttonPressCounter += 1
+        if buttonPressCounter % 2 == 1 {
+            backgroundColor = .yellow
+        } else {
+            backgroundColor = .pink
+        }
+        
     }
 }
 

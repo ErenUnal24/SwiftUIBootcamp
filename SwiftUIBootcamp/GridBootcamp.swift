@@ -26,7 +26,7 @@ struct GridBootcamp: View {
             LazyVGrid(columns: columns,
                       alignment: .center,
                       spacing: 6,
-                      pinnedViews: [],
+                      pinnedViews: [.sectionHeaders],
                       content: {
                         Section(header: 
                                     Text("Section 1")
