@@ -61,6 +61,19 @@
 		7B97ECA42C636DAB00947186 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECA32C636DAB00947186 /* IntroView.swift */; };
 		7B97ECA62C63705600947186 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECA52C63705600947186 /* OnboardingView.swift */; };
 		7B97ECA82C63B1F600947186 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECA72C63B1F600947186 /* ProfileView.swift */; };
+		7B97ECAA2C649AB700947186 /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECA92C649AB700947186 /* AsyncImageBootcamp.swift */; };
+		7B97ECAC2C649F1E00947186 /* BackgroundMaterialsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECAB2C649F1E00947186 /* BackgroundMaterialsBootcamp.swift */; };
+		7B97ECAE2C64A18E00947186 /* TextSelectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECAD2C64A18E00947186 /* TextSelectionBootcamp.swift */; };
+		7B97ECB02C64A43D00947186 /* ButtonStylesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECAF2C64A43D00947186 /* ButtonStylesBootcamp.swift */; };
+		7B97ECB22C64A67B00947186 /* ListSwipeActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECB12C64A67B00947186 /* ListSwipeActions.swift */; };
+		7B97ECB42C64A93300947186 /* BadgesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECB32C64A93300947186 /* BadgesBootcamp.swift */; };
+		7B97ECB62C64B19B00947186 /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECB52C64B19B00947186 /* FocusStateBootcamp.swift */; };
+		7B97ECB82C64B88000947186 /* NavigationStackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECB72C64B88000947186 /* NavigationStackBootcamp.swift */; };
+		7B97ECBA2C64D5A800947186 /* ToolbarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECB92C64D5A800947186 /* ToolbarBootcamp.swift */; };
+		7B97ECBC2C64E40600947186 /* ResizableSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97ECBB2C64E40600947186 /* ResizableSheetBootcamp.swift */; };
+		7BF5D86D2C64F4300019139B /* AnimationUpdatedBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF5D86C2C64F4300019139B /* AnimationUpdatedBootcamp.swift */; };
+		7BF5D86F2C64F7C60019139B /* NativePopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF5D86E2C64F7C60019139B /* NativePopoverBootcamp.swift */; };
+		7BF5D8712C64FF310019139B /* ObservableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF5D8702C64FF310019139B /* ObservableBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -138,6 +151,19 @@
 		7B97ECA32C636DAB00947186 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		7B97ECA52C63705600947186 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		7B97ECA72C63B1F600947186 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		7B97ECA92C649AB700947186 /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
+		7B97ECAB2C649F1E00947186 /* BackgroundMaterialsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsBootcamp.swift; sourceTree = "<group>"; };
+		7B97ECAD2C64A18E00947186 /* TextSelectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBootcamp.swift; sourceTree = "<group>"; };
+		7B97ECAF2C64A43D00947186 /* ButtonStylesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesBootcamp.swift; sourceTree = "<group>"; };
+		7B97ECB12C64A67B00947186 /* ListSwipeActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActions.swift; sourceTree = "<group>"; };
+		7B97ECB32C64A93300947186 /* BadgesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootcamp.swift; sourceTree = "<group>"; };
+		7B97ECB52C64B19B00947186 /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
+		7B97ECB72C64B88000947186 /* NavigationStackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBootcamp.swift; sourceTree = "<group>"; };
+		7B97ECB92C64D5A800947186 /* ToolbarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarBootcamp.swift; sourceTree = "<group>"; };
+		7B97ECBB2C64E40600947186 /* ResizableSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetBootcamp.swift; sourceTree = "<group>"; };
+		7BF5D86C2C64F4300019139B /* AnimationUpdatedBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdatedBootcamp.swift; sourceTree = "<group>"; };
+		7BF5D86E2C64F7C60019139B /* NativePopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopoverBootcamp.swift; sourceTree = "<group>"; };
+		7BF5D8702C64FF310019139B /* ObservableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +194,8 @@
 		7B97EC102C5B672800947186 = {
 			isa = PBXGroup;
 			children = (
+				7BF5D86E2C64F7C60019139B /* NativePopoverBootcamp.swift */,
+				7BF5D8702C64FF310019139B /* ObservableBootcamp.swift */,
 				7B97EC1B2C5B672800947186 /* SwiftUIBootcamp */,
 				7B97EC2C2C5B672900947186 /* SwiftUIBootcampTests */,
 				7B97EC362C5B672900947186 /* SwiftUIBootcampUITests */,
@@ -188,7 +216,11 @@
 		7B97EC1B2C5B672800947186 /* SwiftUIBootcamp */ = {
 			isa = PBXGroup;
 			children = (
-				7B97ECA22C636D8F00947186 /* OnboardingViews */,
+				7B97ECB52C64B19B00947186 /* FocusStateBootcamp.swift */,
+				7B97ECB72C64B88000947186 /* NavigationStackBootcamp.swift */,
+				7B97ECB92C64D5A800947186 /* ToolbarBootcamp.swift */,
+				7B97ECBB2C64E40600947186 /* ResizableSheetBootcamp.swift */,
+				7BF5D86C2C64F4300019139B /* AnimationUpdatedBootcamp.swift */,
 				7B97EC882C62214A00947186 /* TabViewBootcamp.swift */,
 				7B97EC7E2C61FB3500947186 /* AlertBootcamp.swift */,
 				7B97EC842C620BB900947186 /* TextfieldBootcamp.swift */,
@@ -223,7 +255,6 @@
 				7B97EC502C5B7BDC00947186 /* ImageBootcamp.swift */,
 				7B97EC522C5B846600947186 /* FrameBootcamp.swift */,
 				7B97EC542C5B872900947186 /* BackgroundAndOverlayBootcamp.swift */,
-				7B97EC1C2C5B672800947186 /* SwiftUIBootcampApp.swift */,
 				7B97EC1E2C5B672800947186 /* ContentView.swift */,
 				7B97EC8A2C6237C800947186 /* OnAppearBootcamp.swift */,
 				7B97EC8C2C623ACF00947186 /* IfLetGuardBootcamp.swift */,
@@ -231,8 +262,16 @@
 				7B97EC902C62456600947186 /* ModelBootcamp.swift */,
 				7B97ECA02C63667D00947186 /* AppStorageBootcamp.swift */,
 				7B97EC9E2C63552800947186 /* EnvironmentObjectBootcamp.swift */,
-				7B97EC942C62698600947186 /* ViewModelBootcamp */,
+				7B97ECA92C649AB700947186 /* AsyncImageBootcamp.swift */,
+				7B97ECAB2C649F1E00947186 /* BackgroundMaterialsBootcamp.swift */,
+				7B97ECAD2C64A18E00947186 /* TextSelectionBootcamp.swift */,
+				7B97ECAF2C64A43D00947186 /* ButtonStylesBootcamp.swift */,
+				7B97ECB12C64A67B00947186 /* ListSwipeActions.swift */,
+				7B97ECB32C64A93300947186 /* BadgesBootcamp.swift */,
+				7B97EC1C2C5B672800947186 /* SwiftUIBootcampApp.swift */,
 				7B97EC202C5B672900947186 /* Assets.xcassets */,
+				7B97EC942C62698600947186 /* ViewModelBootcamp */,
+				7B97ECA22C636D8F00947186 /* OnboardingViews */,
 				7B97EC222C5B672900947186 /* Preview Content */,
 			);
 			path = SwiftUIBootcamp;
@@ -414,8 +453,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B97ECB42C64A93300947186 /* BadgesBootcamp.swift in Sources */,
 				7B97EC852C620BB900947186 /* TextfieldBootcamp.swift in Sources */,
 				7B97EC812C6200F000947186 /* ActionSheetBootcamp.swift in Sources */,
+				7B97ECAE2C64A18E00947186 /* TextSelectionBootcamp.swift in Sources */,
 				7B97EC4D2C5B761E00947186 /* GradientsBootcamp.swift in Sources */,
 				7B97EC6B2C5CD6F200947186 /* BindingBootcamp.swift in Sources */,
 				7B97EC592C5BA91000947186 /* InitializerBootcamp.swift in Sources */,
@@ -425,13 +466,16 @@
 				7B97ECA12C63667D00947186 /* AppStorageBootcamp.swift in Sources */,
 				7B97EC692C5CD19400947186 /* ExtractSubviews.swift in Sources */,
 				7B97EC4B2C5B6C4300947186 /* ColorsBootcamp.swift in Sources */,
+				7BF5D86D2C64F4300019139B /* AnimationUpdatedBootcamp.swift in Sources */,
 				7B97EC5D2C5BC3EF00947186 /* ScrollViewBootcamp.swift in Sources */,
 				7B97EC8B2C6237C800947186 /* OnAppearBootcamp.swift in Sources */,
 				7B97EC932C624F8000947186 /* ViewModelBootcamp.swift in Sources */,
 				7B97EC9B2C6269CA00947186 /* ViewModel.swift in Sources */,
+				7B97ECAA2C649AB700947186 /* AsyncImageBootcamp.swift in Sources */,
 				7B97EC9F2C63552800947186 /* EnvironmentObjectBootcamp.swift in Sources */,
 				7B97EC532C5B846600947186 /* FrameBootcamp.swift in Sources */,
 				7B97EC492C5B699B00947186 /* ShapesBootcamp.swift in Sources */,
+				7B97ECB82C64B88000947186 /* NavigationStackBootcamp.swift in Sources */,
 				7B97EC7F2C61FB3500947186 /* AlertBootcamp.swift in Sources */,
 				7B97ECA42C636DAB00947186 /* IntroView.swift in Sources */,
 				7B97EC672C5CCD0300947186 /* ExtractedFunctionsBootcamp.swift in Sources */,
@@ -440,6 +484,7 @@
 				7B97EC472C5B676300947186 /* TextBootcamp.swift in Sources */,
 				7B97EC832C6208A300947186 /* ContextMenuBootcamp.swift in Sources */,
 				7B97EC972C6269AA00947186 /* Model.swift in Sources */,
+				7B97ECBA2C64D5A800947186 /* ToolbarBootcamp.swift in Sources */,
 				7B97ECA82C63B1F600947186 /* ProfileView.swift in Sources */,
 				7B97EC892C62214A00947186 /* TabViewBootcamp.swift in Sources */,
 				7B97EC5F2C5BC79A00947186 /* GridBootcamp.swift in Sources */,
@@ -448,21 +493,28 @@
 				7B97EC9D2C626D4300947186 /* OtherView.swift in Sources */,
 				7B97EC8F2C62419600947186 /* TabGestureBootcamp.swift in Sources */,
 				7B97EC1D2C5B672800947186 /* SwiftUIBootcampApp.swift in Sources */,
+				7B97ECB02C64A43D00947186 /* ButtonStylesBootcamp.swift in Sources */,
 				7B97EC572C5BA17C00947186 /* StacksBootcamp.swift in Sources */,
 				7B97EC7D2C5FB26400947186 /* ListBootcamp.swift in Sources */,
 				7B97EC632C5CBD3300947186 /* ButtonsBootcamp.swift in Sources */,
+				7B97ECB62C64B19B00947186 /* FocusStateBootcamp.swift in Sources */,
 				7B97EC512C5B7BDC00947186 /* ImageBootcamp.swift in Sources */,
 				7B97EC612C5CBBE400947186 /* SafeAreaBootcamp.swift in Sources */,
+				7BF5D86F2C64F7C60019139B /* NativePopoverBootcamp.swift in Sources */,
 				7B97EC6D2C5CF25F00947186 /* ConditionalBootcamp.swift in Sources */,
 				7B97EC872C62176D00947186 /* PickerBootcamp.swift in Sources */,
 				7B97EC652C5CC3B500947186 /* StateBootcamp.swift in Sources */,
+				7B97ECAC2C649F1E00947186 /* BackgroundMaterialsBootcamp.swift in Sources */,
 				7B97EC6F2C5CF70100947186 /* TernaryBootcamp.swift in Sources */,
+				7BF5D8712C64FF310019139B /* ObservableBootcamp.swift in Sources */,
 				7B97EC4F2C5B7A3E00947186 /* IconsBootcamp.swift in Sources */,
 				7B97EC912C62456600947186 /* ModelBootcamp.swift in Sources */,
 				7B97EC732C5D01C100947186 /* AnimationTimingBootcamp.swift in Sources */,
+				7B97ECB22C64A67B00947186 /* ListSwipeActions.swift in Sources */,
 				7B97ECA62C63705600947186 /* OnboardingView.swift in Sources */,
 				7B97EC712C5CFBCD00947186 /* AnimationBootcamp.swift in Sources */,
 				7B97EC8D2C623ACF00947186 /* IfLetGuardBootcamp.swift in Sources */,
+				7B97ECBC2C64E40600947186 /* ResizableSheetBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -634,6 +686,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -663,6 +716,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
